@@ -19,7 +19,7 @@ This project is a dynamic e-commerce platform designed to deliver an all-encompa
 ### Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/lanslord11/Retailrush
+   git clone https://github.com/priyanshu-etc/RetailRush
    npm install
    
 2. Now for installing packages for frontend do
